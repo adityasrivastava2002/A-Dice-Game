@@ -1,0 +1,44 @@
+*{
+    background-color: #393E46;
+}
+h1{
+    font-size: 6rem;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    color:#4ECCA3;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    
+}
+hr{
+    margin: 2rem;
+    color: blue;
+    border: 0.2rem solid black;
+    border-style:solid;
+}
+footer{
+    text-align: center;
+    color: white;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 6rem 10rem;
+    flex-wrap: wrap;
+    color:#4ECCA3;
+}
+.flex-item1{
+    text-align: center;
+}
+.flex-item2{
+    text-align: center;
+}
+.img1{
+    width: 70%;
+}
+.img2{
+    width: 70%;
+}
